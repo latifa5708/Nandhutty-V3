@@ -2,9 +2,8 @@
 "name": "Lachin Eke",
   "description": "Lightweight Lachin Eke WhatsApp Bot",
   "repository": "https://github.com/latifa5708/Nandhutty-V3",
-  "youtube": "https://youtube.com/c/LacinEke"
   "logo": "https://telegra.ph/file/41d4aaccd3dc1c89257e1.jpg",
-  "keywords": ["bot", "whatsapp", "eke", "whatsapp-bot"],
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"],
 
     "buildpacks": [
 
